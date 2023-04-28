@@ -1,4 +1,4 @@
-## PLATFORM GAME
+# PLATFORM GAME
 
 ### Juego de plataformas en JavaScript
 Es un juego de plataformas diseñado con JavaScript, el cual tiene de objetivo llegar saltando hasta la última plataforma para terminar el juego. Para mover al personaje, se deben de utilizar las teclas W, A, y D.
