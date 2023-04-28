@@ -80,8 +80,13 @@ let plataformas = [
         new Plataforma(
           {
             x:1200,y:700
-          })
-
+          }),
+        
+          new Plataforma(
+            {
+              x:1600,y:700
+            })
+  
 ]
 let teclas =
 {
