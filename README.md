@@ -26,6 +26,7 @@ Si en alg√∫n momento llegas a caerte a un precipicio, el juego se reinicia mand√
 
 
 ### Diagrama UML
+![image](https://github.com/L4l0G/PlatformGame/blob/main/Diagrama%20UML.jpg)
 
 
 ------------
