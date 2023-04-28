@@ -12,7 +12,8 @@ Es un juego de plataformas diseñado con JavaScript, el cual tiene de objetivo l
 ![image](https://github.com/L4l0G/PlatformGame/blob/main/Captura%20final%20del%20juego.png)
 
 Si en algún momento llegas a caerte a un precipicio, el juego se reinicia mandándote al inicio. Puedes moverte de izquierda a derecha, sin embargo sólo puedes avanzar hacia la derecha, ya que al intentar volver a la izquierda no se permitirá el paso de regreso.
-[![Juego inicio](postimage "Juego inicio")](https://i.postimg.cc/RFBwj4HP/Captura-juego.png "Juego inicio")
+
+![image](https://github.com/L4l0G/PlatformGame/blob/main/Captura%20juego.png)
 
 ### Diagrama UML
 
