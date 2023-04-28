@@ -33,3 +33,4 @@ Si en alg√∫n momento llegas a caerte a un precipicio, el juego se reinicia mand√
 
 ###Referencias
 https://www.youtube.com/watch?v=4q2vvZn5aoo
+https://www.instintoprogramador.com.mx/2020/11/polimorfismo-en-javascript.html
